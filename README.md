@@ -2,7 +2,7 @@ Un texte pour la jam Crise Existentielle.
 Tout le mérite de ce texte revient à Rae Nedjadi pour son puissant jeu lyrique The Mermaid Spell. Puisse ce jeu être un jour traduit en français et largement diffusé <3
 
 
-#Le réveil de l'Étoile - A nouveau 
+# Le réveil de l'Étoile - A nouveau 
 *Ceci n'est pas un jeu*
 
 Vous êtes une poussière d’étoile incarnée dans ce monde. Une enfant des galaxies, des soleils et des comètes. Ou quelque chose comme ça. 
